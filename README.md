@@ -16,4 +16,4 @@ Feel free to contact me if you have any questions or comments!
 
 # Authors
 
-* Christian Peukert
+* Christian Peukert (cpeukert)
