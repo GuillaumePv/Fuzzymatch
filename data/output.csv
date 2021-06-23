@@ -1,0 +1,273 @@
+x_id	y_id	prob	x_name	y_name
+490	1	0.7953	tessa arlen	allen eskens
+629	3	0.9998	catherine lowell	catherine gayle
+686	3	0.915	catherine armstrong	catherine gayle
+909	3	0.9986	catherine todd	catherine gayle
+90	4	0.9215	daniels	daniel j. siegel
+170	4	0.9515	mark siegel	daniel j. siegel
+197	4	0.9515	mark siegel	daniel j. siegel
+352	5	0.9625	debbie palen	debbie macomber
+776	7	0.9292	lori perkins	dolen perkins-valdez
+704	11	1.0	george r.	george r.r. martin
+448	11	0.9999	martin	george r.r. martin
+742	11	0.9775	lex martin	george r.r. martin
+799	11	0.8312	kat martin	george r.r. martin
+950	11	0.9999	martin	george r.r. martin
+704	11	1.0	george r.	george r.r. martin
+3	12	0.9516	michael crichton	michael fertik
+171	12	0.9893	michael eric dyson	michael fertik
+209	12	0.9748	michael breus	michael fertik
+286	12	0.9058	michaela	michael fertik
+608	12	0.8316	michael benson	michael fertik
+755	12	0.9986	michael fletcher	michael fertik
+764	12	0.9516	michael clarkson	michael fertik
+816	12	0.7711	michael crummey	michael fertik
+755	12	0.9986	michael fletcher	michael fertik
+322	14	0.8634	peter lodenius	peter h. diamandis
+51	15	0.9993	rachel caine	rachel joyce
+85	15	1.0	rachel	rachel joyce
+138	15	0.8668	rachel beller	rachel joyce
+152	15	0.9993	rachel caine	rachel joyce
+206	15	0.9993	rachel caine	rachel joyce
+269	15	0.9993	rachel caine	rachel joyce
+646	25	0.9973	marni jackson	a. l. jackson
+935	25	0.9999	k.m. jackson	a. l. jackson
+612	27	0.7863	walter dean myers	a. meredith walters
+613	27	0.7863	walter dean myers	a. meredith walters
+612	27	0.7863	walter dean myers	a. meredith walters
+613	27	0.7863	walter dean myers	a. meredith walters
+737	27	0.9841	meredith maran	a. meredith walters
+580	34	0.9046	david jacob	a.j. jacobs
+646	37	0.9984	marni jackson	a.l. jackson
+935	37	0.9999	k.m. jackson	a.l. jackson
+712	39	0.9808	kelly madden	a.m. madden
+30	41	0.9999	hannah harrison	a.s.a. harrison
+518	41	1.0	harrison	a.s.a. harrison
+827	41	0.9985	rory harrison	a.s.a. harrison
+108	44	0.9999	jason aaron	aaron allston
+964	44	0.9108	award rohan wilson	aaron allston
+555	46	0.8169	bacon freak	aaron franklin
+63	47	0.9991	james	aaron james draplin
+108	50	0.9971	jason aaron	aaron patterson
+63	54	1.0	james	abel james
+469	54	0.9988	brooke james	abel james
+521	54	0.9965	james beard	abel james
+671	54	0.933	james dashner	abel james
+682	54	0.9965	james beard	abel james
+708	54	0.9949	james hannibal	abel james
+552	55	0.9614	brad abraham	abraham verghese
+966	56	0.937	herman atkins	ace atkins
+555	58	0.8169	bacon freak	acton figueroa
+761	59	1.0	adam ruben	adam braun
+158	63	0.9456	adele faber	adam fawer
+158	63	0.9456	adele faber	adam fawer
+354	64	0.8169	adam gustavson	adam gopnik
+354	64	0.8169	adam gustavson	adam gopnik
+761	65	0.987	adam ruben	adam grant
+892	65	0.987	alan gratz	adam grant
+892	65	0.987	alan gratz	adam grant
+465	67	0.9685	amy jones	adam johnson
+845	67	0.9311	kirk johnson	adam johnson
+465	67	0.9685	amy jones	adam johnson
+761	69	0.7814	adam ruben	adam m. grant
+892	69	0.7814	alan gratz	adam m. grant
+892	69	0.7814	alan gratz	adam m. grant
+713	72	0.9999	adam lamparello	adam markel
+761	72	0.9456	adam ruben	adam markel
+761	73	1.0	adam ruben	adam rubin
+761	73	1.0	adam ruben	adam rubin
+909	78	0.9201	catherine todd	adapted by catherine
+342	84	0.9983	henry	adapted by henry gil
+877	93	0.9638	katherine applegate	adapted by katherine
+129	93	0.9201	katherine reay	adapted by katherine
+877	93	0.9638	katherine applegate	adapted by katherine
+158	113	0.8169	adele faber	adele ashworth
+158	114	0.9456	adele faber	adele lang
+634	115	0.987	alice pung	adele puhn
+634	115	0.987	alice pung	adele puhn
+472	116	0.9809	madeline sheehan	adeline yen mah
+809	117	0.9714	adrian owen	adrian gostick
+13	118	0.9858	faith hunter	adriana hunter
+77	118	0.9858	faith hunter	adriana hunter
+452	118	0.9928	georgia hunter	adriana hunter
+809	118	0.8169	adrian owen	adriana hunter
+13	119	0.9858	faith hunter	adriana hunter
+77	119	0.9858	faith hunter	adriana hunter
+452	119	0.9928	georgia hunter	adriana hunter
+809	119	0.8169	adrian owen	adriana hunter
+13	120	0.9858	faith hunter	adriana hunter
+77	120	0.9858	faith hunter	adriana hunter
+452	120	0.9928	georgia hunter	adriana hunter
+809	120	0.8169	adrian owen	adriana hunter
+809	121	0.9996	adrian owen	adriana locke
+385	123	0.8246	cheryl ann smith	aerosmith
+674	123	0.9685	andrew smith	aerosmith
+260	125	0.8388	christie craig	agatha christie
+260	126	0.8388	christie craig	agatha christie
+48	133	0.9676	frank cole	al franken
+127	135	1.0	brenda michaels	al michaels
+209	135	0.9561	michael breus	al michaels
+286	135	0.9996	michaela	al michaels
+380	135	0.9994	walter benn michaels	al michaels
+608	135	0.8169	michael benson	al michaels
+622	135	0.9901	k.a. mitchell	al michaels
+755	135	0.9044	michael fletcher	al michaels
+764	135	0.9479	michael clarkson	al michaels
+923	135	0.9266	michelle markel	al michaels
+78	138	0.8618	alan friedman	alan alda
+264	138	0.8388	sandra allen	alan alda
+892	139	0.79	alan gratz	alan bradley
+147	140	0.9046	calista fox	alan c. fox
+147	140	0.9046	calista fox	alan c. fox
+892	144	0.8724	alan gratz	alan dershowitz
+78	145	0.9993	alan friedman	alan fine
+78	145	0.9993	alan friedman	alan fine
+887	145	0.9814	caroline finkel	alan fine
+11	146	0.79	alan russell	alan furst
+892	146	0.987	alan gratz	alan furst
+78	147	0.9943	alan friedman	alan grant
+120	147	0.9625	ayn rand	alan grant
+892	147	1.0	alan gratz	alan grant
+892	147	1.0	alan gratz	alan grant
+78	148	0.9943	alan friedman	alan grant
+120	148	0.9625	ayn rand	alan grant
+892	148	1.0	alan gratz	alan grant
+892	148	1.0	alan gratz	alan grant
+78	149	0.9419	alan friedman	alan greenspan
+892	149	0.9722	alan gratz	alan greenspan
+243	149	0.9347	lisa gail green	alan greenspan
+892	149	0.9722	alan gratz	alan greenspan
+108	150	0.9918	jason aaron	alan jacobson
+108	150	0.9918	jason aaron	alan jacobson
+78	151	0.9766	alan friedman	alan lightman
+11	153	0.79	alan russell	alan moore
+11	154	0.79	alan russell	alan moore
+11	155	0.79	alan russell	alan moore
+11	156	0.79	alan russell	alan moore
+892	157	0.987	alan gratz	alan paton
+119	158	0.8252	richard stratton	alan richardson
+373	158	0.9815	doyin richards	alan richardson
+579	158	0.9625	jim richards	alan richardson
+767	158	0.9262	richard pearson	alan richardson
+78	158	0.7695	alan friedman	alan richardson
+283	159	0.9929	robert nathan	alan robertson
+426	159	0.9999	marc robertson	alan robertson
+669	159	0.9869	roberts	alan robertson
+949	159	1.0	robertson	alan robertson
+535	160	0.9797	shelley shepard gray	alan shepard
+78	161	0.9943	alan friedman	alan simon
+455	161	0.9722	helen simonson	alan simon
+872	161	0.9988	simona kaleva	alan simon
+892	162	0.79	alan gratz	alan tennant
+337	163	0.9903	sam weinman	alan weisman
+78	163	0.997	alan friedman	alan weisman
+569	167	0.9803	albatros	albert brooks
+627	167	0.9803	albatros	albert brooks
+954	167	0.9803	albatros	albert brooks
+166	174	0.8426	alessandro busa	alejandro junger
+390	174	0.9462	alexandra blogier	alejandro junger
+166	175	0.8426	alessandro busa	alessandra torre
+390	175	0.9462	alexandra blogier	alessandra torre
+166	176	0.8426	alessandro busa	alessandra torre
+390	176	0.9462	alexandra blogier	alessandra torre
+576	177	0.9932	alex jack	alex becker
+246	178	0.9419	alice anderson	alex berenson
+576	183	0.9262	alex jack	alex kava
+576	185	0.9999	alex jack	alex lake
+78	188	0.7695	alan friedman	alexander freed
+157	188	0.9998	meena alexander	alexander freed
+236	188	0.9999	alexander loyd	alexander freed
+328	188	0.9898	alexander smalls	alexander freed
+78	188	0.7695	alan friedman	alexander freed
+157	189	0.9908	meena alexander	alexander mccall smi
+157	189	0.9908	meena alexander	alexander mccall smi
+236	189	0.9982	alexander loyd	alexander mccall smi
+328	189	1.0	alexander smalls	alexander mccall smi
+328	189	1.0	alexander smalls	alexander mccall smi
+157	190	0.9796	meena alexander	alexander mccall smith
+157	190	0.9796	meena alexander	alexander mccall smith
+236	190	0.995	alexander loyd	alexander mccall smith
+328	190	1.0	alexander smalls	alexander mccall smith
+328	190	1.0	alexander smalls	alexander mccall smith
+144	191	0.9997	ann bracken	alexandra bracken
+157	191	0.915	meena alexander	alexandra bracken
+390	191	0.9937	alexandra blogier	alexandra bracken
+576	191	0.7708	alex jack	alexandra bracken
+144	191	0.9997	ann bracken	alexandra bracken
+390	191	0.9937	alexandra blogier	alexandra bracken
+144	192	0.9997	ann bracken	alexandra bracken
+157	192	0.915	meena alexander	alexandra bracken
+390	192	0.9937	alexandra blogier	alexandra bracken
+576	192	0.7708	alex jack	alexandra bracken
+144	192	0.9997	ann bracken	alexandra bracken
+390	192	0.9937	alexandra blogier	alexandra bracken
+157	193	0.9837	meena alexander	alexandra day
+166	193	0.791	alessandro busa	alexandra day
+236	193	0.9992	alexander loyd	alexandra day
+328	193	0.9893	alexander smalls	alexandra day
+390	193	0.9996	alexandra blogier	alexandra day
+390	194	1.0	alexandra blogier	alexandra fuller
+390	195	1.0	alexandra blogier	alexandra fuller
+390	196	0.9317	alexandra blogier	alexandra hawkins
+390	197	0.983	alexandra blogier	alexandra horowitz
+236	198	0.9992	alexander loyd	alexandra ivy
+390	198	0.9999	alexandra blogier	alexandra ivy
+236	199	0.9992	alexander loyd	alexandra ivy
+390	199	0.9999	alexandra blogier	alexandra ivy
+353	200	0.9938	andy riley	alexandra ripley
+353	200	0.9938	andy riley	alexandra ripley
+390	200	0.9985	alexandra blogier	alexandra ripley
+236	201	0.8896	alexander loyd	alexandra robbins
+390	201	0.9937	alexandra blogier	alexandra robbins
+390	202	0.9997	alexandra blogier	alexandra sellers
+236	203	0.9906	alexander loyd	alexandra stoddard
+328	203	0.8644	alexander smalls	alexandra stoddard
+390	203	0.983	alexandra blogier	alexandra stoddard
+328	203	0.8644	alexander smalls	alexandra stoddard
+157	204	0.9861	meena alexander	alexandre dumas
+166	204	0.9343	alessandro busa	alexandre dumas
+236	204	0.9836	alexander loyd	alexandre dumas
+328	204	0.9999	alexander smalls	alexandre dumas
+285	205	0.9991	alexis morgan	alexis maybank
+285	205	0.9991	alexis morgan	alexis maybank
+634	211	0.8036	alice pung	alice  hoffman
+751	212	0.9561	alice adams	alice alfonsi
+791	213	0.9996	ken blanchard	alice blanchard
+246	214	0.9419	alice anderson	alice clayton
+634	214	0.8164	alice pung	alice clayton
+246	215	0.9419	alice anderson	alice clayton
+634	215	0.8164	alice pung	alice clayton
+634	216	0.9988	alice pung	alice duncan
+634	217	0.8164	alice pung	alice hoffman
+246	218	0.9571	alice anderson	alice low
+634	218	0.9429	alice pung	alice low
+246	219	0.9815	alice anderson	alice mcdermott
+246	220	0.9982	alice anderson	alice munro
+634	220	0.9997	alice pung	alice munro
+246	221	0.9419	alice anderson	alice randall
+634	221	0.8164	alice pung	alice randall
+437	228	0.9999	julie ann walker	alice walker
+246	228	0.9858	alice anderson	alice walker
+437	228	0.9999	julie ann walker	alice walker
+246	229	0.9999	alice anderson	alice waters
+13	230	0.8248	faith hunter	alicia hunter pace
+77	230	0.8248	faith hunter	alicia hunter pace
+800	232	0.9625	lisa scottoline	alicia scott
+994	235	0.791	alison goldberg	alison gaylin
+994	235	0.791	alison goldberg	alison gaylin
+514	236	0.9998	alison mcghee	alison inches
+663	236	0.9561	alyson noel	alison inches
+514	237	0.9419	alison mcghee	alison maloney
+514	237	0.9419	alison mcghee	alison maloney
+663	237	0.8169	alyson noel	alison maloney
+514	238	1	alison mcghee	alison mcghee
+514	238	1	alison mcghee	alison mcghee
+994	238	0.7695	alison goldberg	alison mcghee
+514	239	1	alison mcghee	alison mcghee
+514	239	1	alison mcghee	alison mcghee
+994	239	0.7695	alison goldberg	alison mcghee
+663	240	0.9561	alyson noel	alison pollet
+994	240	0.9956	alison goldberg	alison pollet
+663	241	0.9561	alyson noel	alison pollet
+994	241	0.9956	alison goldberg	alison pollet
+514	242	0.9991	alison mcghee	alison ritchie
