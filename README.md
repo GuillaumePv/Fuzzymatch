@@ -13,3 +13,7 @@ The procedure uses parallel computing to enable fast and efficient matching of l
 The output file is a list of the best matches between two observations along with a probability score, which can later be used by the researcher to make a decision on the best match.
 
 Feel free to contact me if you have any questions or comments!
+
+# Authors
+
+* Christian Peukert
