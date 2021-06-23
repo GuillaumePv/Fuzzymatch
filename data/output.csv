@@ -3,16 +3,16 @@ x_id	y_id	prob	x_name	y_name
 629	3	0.9998	catherine lowell	catherine gayle
 686	3	0.915	catherine armstrong	catherine gayle
 909	3	0.9986	catherine todd	catherine gayle
-90	4	0.9215	daniels	daniel j. siegel
 170	4	0.9515	mark siegel	daniel j. siegel
 197	4	0.9515	mark siegel	daniel j. siegel
+90	4	0.9215	daniels	daniel j. siegel
 352	5	0.9625	debbie palen	debbie macomber
 776	7	0.9292	lori perkins	dolen perkins-valdez
-704	11	1.0	george r.	george r.r. martin
 448	11	0.9999	martin	george r.r. martin
 742	11	0.9775	lex martin	george r.r. martin
 799	11	0.8312	kat martin	george r.r. martin
 950	11	0.9999	martin	george r.r. martin
+704	11	1.0	george r.	george r.r. martin
 704	11	1.0	george r.	george r.r. martin
 3	12	0.9516	michael crichton	michael fertik
 171	12	0.9893	michael eric dyson	michael fertik
@@ -63,14 +63,14 @@ x_id	y_id	prob	x_name	y_name
 158	63	0.9456	adele faber	adam fawer
 354	64	0.8169	adam gustavson	adam gopnik
 354	64	0.8169	adam gustavson	adam gopnik
-761	65	0.987	adam ruben	adam grant
 892	65	0.987	alan gratz	adam grant
+761	65	0.987	adam ruben	adam grant
 892	65	0.987	alan gratz	adam grant
 465	67	0.9685	amy jones	adam johnson
 845	67	0.9311	kirk johnson	adam johnson
 465	67	0.9685	amy jones	adam johnson
-761	69	0.7814	adam ruben	adam m. grant
 892	69	0.7814	alan gratz	adam m. grant
+761	69	0.7814	adam ruben	adam m. grant
 892	69	0.7814	alan gratz	adam m. grant
 713	72	0.9999	adam lamparello	adam markel
 761	72	0.9456	adam ruben	adam markel
@@ -78,8 +78,8 @@ x_id	y_id	prob	x_name	y_name
 761	73	1.0	adam ruben	adam rubin
 909	78	0.9201	catherine todd	adapted by catherine
 342	84	0.9983	henry	adapted by henry gil
-877	93	0.9638	katherine applegate	adapted by katherine
 129	93	0.9201	katherine reay	adapted by katherine
+877	93	0.9638	katherine applegate	adapted by katherine
 877	93	0.9638	katherine applegate	adapted by katherine
 158	113	0.8169	adele faber	adele ashworth
 158	114	0.9456	adele faber	adele lang
@@ -121,21 +121,21 @@ x_id	y_id	prob	x_name	y_name
 147	140	0.9046	calista fox	alan c. fox
 892	144	0.8724	alan gratz	alan dershowitz
 78	145	0.9993	alan friedman	alan fine
-78	145	0.9993	alan friedman	alan fine
 887	145	0.9814	caroline finkel	alan fine
+78	145	0.9993	alan friedman	alan fine
 11	146	0.79	alan russell	alan furst
 892	146	0.987	alan gratz	alan furst
+892	147	1.0	alan gratz	alan grant
 78	147	0.9943	alan friedman	alan grant
 120	147	0.9625	ayn rand	alan grant
 892	147	1.0	alan gratz	alan grant
-892	147	1.0	alan gratz	alan grant
+892	148	1.0	alan gratz	alan grant
 78	148	0.9943	alan friedman	alan grant
 120	148	0.9625	ayn rand	alan grant
 892	148	1.0	alan gratz	alan grant
-892	148	1.0	alan gratz	alan grant
-78	149	0.9419	alan friedman	alan greenspan
-892	149	0.9722	alan gratz	alan greenspan
 243	149	0.9347	lisa gail green	alan greenspan
+892	149	0.9722	alan gratz	alan greenspan
+78	149	0.9419	alan friedman	alan greenspan
 892	149	0.9722	alan gratz	alan greenspan
 108	150	0.9918	jason aaron	alan jacobson
 108	150	0.9918	jason aaron	alan jacobson
@@ -155,9 +155,9 @@ x_id	y_id	prob	x_name	y_name
 669	159	0.9869	roberts	alan robertson
 949	159	1.0	robertson	alan robertson
 535	160	0.9797	shelley shepard gray	alan shepard
-78	161	0.9943	alan friedman	alan simon
 455	161	0.9722	helen simonson	alan simon
 872	161	0.9988	simona kaleva	alan simon
+78	161	0.9943	alan friedman	alan simon
 892	162	0.79	alan gratz	alan tennant
 337	163	0.9903	sam weinman	alan weisman
 78	163	0.997	alan friedman	alan weisman
@@ -175,32 +175,32 @@ x_id	y_id	prob	x_name	y_name
 576	183	0.9262	alex jack	alex kava
 576	185	0.9999	alex jack	alex lake
 78	188	0.7695	alan friedman	alexander freed
+78	188	0.7695	alan friedman	alexander freed
 157	188	0.9998	meena alexander	alexander freed
 236	188	0.9999	alexander loyd	alexander freed
 328	188	0.9898	alexander smalls	alexander freed
-78	188	0.7695	alan friedman	alexander freed
+328	189	1.0	alexander smalls	alexander mccall smi
 157	189	0.9908	meena alexander	alexander mccall smi
 157	189	0.9908	meena alexander	alexander mccall smi
 236	189	0.9982	alexander loyd	alexander mccall smi
 328	189	1.0	alexander smalls	alexander mccall smi
-328	189	1.0	alexander smalls	alexander mccall smi
+328	190	1.0	alexander smalls	alexander mccall smith
 157	190	0.9796	meena alexander	alexander mccall smith
 157	190	0.9796	meena alexander	alexander mccall smith
 236	190	0.995	alexander loyd	alexander mccall smith
 328	190	1.0	alexander smalls	alexander mccall smith
-328	190	1.0	alexander smalls	alexander mccall smith
+144	191	0.9997	ann bracken	alexandra bracken
+390	191	0.9937	alexandra blogier	alexandra bracken
 144	191	0.9997	ann bracken	alexandra bracken
 157	191	0.915	meena alexander	alexandra bracken
 390	191	0.9937	alexandra blogier	alexandra bracken
 576	191	0.7708	alex jack	alexandra bracken
-144	191	0.9997	ann bracken	alexandra bracken
-390	191	0.9937	alexandra blogier	alexandra bracken
+144	192	0.9997	ann bracken	alexandra bracken
+390	192	0.9937	alexandra blogier	alexandra bracken
 144	192	0.9997	ann bracken	alexandra bracken
 157	192	0.915	meena alexander	alexandra bracken
 390	192	0.9937	alexandra blogier	alexandra bracken
 576	192	0.7708	alex jack	alexandra bracken
-144	192	0.9997	ann bracken	alexandra bracken
-390	192	0.9937	alexandra blogier	alexandra bracken
 157	193	0.9837	meena alexander	alexandra day
 166	193	0.791	alessandro busa	alexandra day
 236	193	0.9992	alexander loyd	alexandra day
@@ -220,10 +220,10 @@ x_id	y_id	prob	x_name	y_name
 236	201	0.8896	alexander loyd	alexandra robbins
 390	201	0.9937	alexandra blogier	alexandra robbins
 390	202	0.9997	alexandra blogier	alexandra sellers
+328	203	0.8644	alexander smalls	alexandra stoddard
 236	203	0.9906	alexander loyd	alexandra stoddard
 328	203	0.8644	alexander smalls	alexandra stoddard
 390	203	0.983	alexandra blogier	alexandra stoddard
-328	203	0.8644	alexander smalls	alexandra stoddard
 157	204	0.9861	meena alexander	alexandre dumas
 166	204	0.9343	alessandro busa	alexandre dumas
 236	204	0.9836	alexander loyd	alexandre dumas
