@@ -189,7 +189,7 @@ plt.grid(True)
 plt.title('Accuracy score vs cuteoff')
 plt.xlabel('cuteoff')
 plt.ylabel('Accuracy score')
-plt.show()
+#plt.show()
 fig.savefig('plots/accuracy_vs_cuteoff.png')
 
 #FPR vs cuteoff
