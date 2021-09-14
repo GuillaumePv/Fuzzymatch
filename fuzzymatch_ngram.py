@@ -43,7 +43,7 @@ import nmslib
 
 
 # %%
-def ngrams(string, n=2):
+def ngrams(string, n=4):
     """Takes an input string, cleans it and converts to ngrams. 
     This script is focussed on cleaning UK company names but can be made generic by removing lines below"""
     string = str(string)
